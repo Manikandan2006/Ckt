@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: rgb(185, 173, 173);
+}
+
+.try{
+    margin-bottom: 0px;
+    margin-left:150px;
+    margin-top: 20px;
+    
+}
+.title{
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    margin-left:180px
+}
+.header{
+   
+}
+
+.navbar{
+    width: 100%;
+    height: 30px;
+    background-color: #ff1808;
+   position: sticky;
+    text-align: center;
+    
+   
+}
+
+ul li{
+    list-style-type: none;
+    
+    display: inline;
+    color: aliceblue;
+    font-size: 23px;
+    margin-left: 80px;
+    padding: 0 auto;
+
+}
+
+ul:hover{
+    cursor: pointer;
+    color: #BBDEFB;
+    
+}
+
+
+.body{
+    width:85%;
+    height:2300px;
+    background-color: #ffffff;
+    margin-left: 7%;
+    margin-top:40px;
+    box-shadow: 5px 5px 5px 5px rgba(53, 49, 49, 0.2);
+}
+
+.front1img{
+
+    width: 200px;
+    height: 200px;
+      
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 30px 0px 30px 0px;
+    background-image: url(header\ background.jpg);
+    background-size:200px 200px;
+}
+
+
+.body1{
+   
+    font-family: candara;
+    margin-left: 90px;
+    padding-top: 80px;
+}
+
+.firstimg{
+    margin-left: 90px;
+    padding-top: 80px;
+    display: inline;
+    float: left;
+  
+  }
+  
+
+.history{
+    position: absolute;
+    margin-left: 15px;
+    
+}
+.para1{
+    margin-left: 30px;
+    padding-top: 80px;
+    text-indent: 5%;
+    font-size: 22px;
+    text-align: justify;
+    te
+
+
+    
+}
+.event{
+    padding-top: 120px;
+}
+
+.events1{
+      
+    padding-top: 80px;
+    margin-top: 50px;
+   
+}
+
+.box{
+    display:inline;
+    margin-left:120px;
+    padding-top: 80px;
+}
+
+.events2{
+
+      padding-top: 80px;
+      
+}
+
+.box1{
+  
+    display:inline;
+    margin-left: 20px;
+}
+
+.events3{
+    padding-top: 80px;
+}
+
+.events4{
+    padding-top: 80px;
+}
+
+.link{
+    padding-top: 50px;
+    
+}
+a{
+    text-decoration: none;
+    font-size: large;
+    font-weight: bolder;
+    font-style: candana;
+    color: maroon;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    background-color: #08004d;
+    margin-top: 100px;
+
+}
+
+.aboutus{
+    width: 300px;
+    height: 250px;
+    color: aliceblue;
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+
+.Academy{
+    width: 300px;
+    height: 250px;
+    color: #ffffff;
+    float: left;
+    margin-top: 50px;
+    margin-left: 330px;
+    
+}
+
+
+
+.contact{
+    width: 300px;
+    height: 250px;
+    color: aliceblue;
+    float: left;
+    margin-top: 50px;
+    margin-left: 220px;
+
+}
+.last{
+    color: #BBDEFB;
+    margin-bottom: 0;
+}
+
+.how{
+    color: #8b9ba8;
+}
